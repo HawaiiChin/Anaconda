@@ -1,0 +1,6 @@
+#check
+conda config --get channels
+#remove 
+conda config --remove channels 
+#add
+conda config --add channels
